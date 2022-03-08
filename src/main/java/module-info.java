@@ -3,6 +3,6 @@ module fx.projetjavafxcomjdbc {
     requires javafx.fxml;
 
 
-    opens fx.projetjavafxcomjdbc to javafx.fxml;
     exports fx.projetjavafxcomjdbc;
+    opens fx.projetjavafxcomjdbc to javafx.fxml;
 }
