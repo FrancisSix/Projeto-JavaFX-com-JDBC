@@ -1,6 +1,7 @@
 module fx.projetjavafxcomjdbc {
     requires javafx.controls;
     requires javafx.fxml;
+    requires java.sql;
 
 
     exports fx.projetjavafxcomjdbc;

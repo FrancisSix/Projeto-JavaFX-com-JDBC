@@ -1,2 +1,5 @@
+fx\projetjavafxcomjdbc\ViewController.class
+fx\projetjavafxcomjdbc\App.class
+fx\projetjavafxcomjdbc\util\Constraints.class
 module-info.class
-fx\projetjavafxcomjdbc\application\App.class
+fx\projetjavafxcomjdbc\util\Alerts.class
